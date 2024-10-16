@@ -19,15 +19,15 @@ html, body {
 }
 
 .alkali-metal {
-    background-color: #ff6666;
+    background-color: #ff0000;
 }
 
 .alkaline-earth-metal {
-    background-color: #ffdead;
+    background-color: #ffc876;
 }
 
 .transition-metal {
-    background-color: #ffcc80;
+    background-color: #f89b11;
 }
 
 .post-transition-metal {
@@ -39,7 +39,7 @@ html, body {
 }
 
 .noble-gas {
-    background-color: #bde9ff;
+    background-color: #77d5ff;
 }
 
 .nonmetal {
@@ -47,15 +47,15 @@ html, body {
 }
 
 .lanthanide {
-    background-color: #ffbfff;
+    background-color: #f46af4;
 }
 
 .actinide {
-    background-color: #ff99cc;
+    background-color: #f859a8;
 }
 
 .halogen {
-    background-color: #66b2ff;
+    background-color: #4ea4fb;
 }
 
 .unknown {
